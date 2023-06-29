@@ -21,7 +21,7 @@ function App() {
             Otra_página
           </Link>
           <Link to="/ref" className="font-bold text-2xl text-blue-700">
-            Use_Ref
+            UseRef
           </Link>
           <Link to="/componente-controlador" className="font-bold text-2xl text-blue-700">
             Componente_Controlador
