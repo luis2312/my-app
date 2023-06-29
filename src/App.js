@@ -15,22 +15,22 @@ function App() {
         <h1 className="text-4xl font-bold">Desarrollo web con React - IECA</h1>
         <div className="flex gap-4 py-4">
           <Link to="/hola-mundo" className="font-bold text-2xl text-blue-700">
-            Hola Mundo
+            Hola_Mundo
           </Link>
           <Link to="/otra-pagina" className="font-bold text-2xl text-blue-700">
-            Otra página
+            Otra_página
           </Link>
           <Link to="/ref" className="font-bold text-2xl text-blue-700">
-            Use Ref
+            Use_Ref
           </Link>
           <Link to="/componente-controlador" className="font-bold text-2xl text-blue-700">
-            Componente Controlador
+            Componente_Controlador
           </Link>
           <Link to="/contador" className="font-bold text-2xl text-blue-700">
             Contador
           </Link>
           <Link to="/todo" className="font-bold text-2xl text-blue-700">
-            Lista Todo
+            Lista_Todo
           </Link>
         </div>
         <Routes>
